@@ -1,0 +1,9 @@
+{
+    "name": "nicolasf/cursophp",
+    "description": "inicio proyecto testing",
+    "type": "project",
+    "license": "property",
+    "require": {
+        "tecnickcom/tcpdf": "^6.2.13"
+    }
+}
